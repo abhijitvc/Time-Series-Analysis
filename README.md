@@ -23,7 +23,7 @@ BEST MODEL:	Holt’s Winter Exponential Smoothing.
 
 PROBLEM STATEMENT:	An attempt to study U.S. Air Traffic data through time series analysis.
 
-DATA:	This data was gleaned from the United States Bureau of Transportation Statistics.  The link to the data can be found here.  The data can be found @:  https://www.transtats.bts.gov/TRAFFIC/
+DATA:	This data was gleaned from the United States Bureau of Transportation Statistics.  The link to the data can be found here.  The data can be found @:  https://www.transtats.bts.gov/TRAFFIC/  saved here as Data_Project_1.csv.
 
 PROGRAMMING LANGUAGE:	Python.
 
